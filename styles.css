@@ -50,7 +50,7 @@ body {
     font-weight: 700;
     margin: 2rem 0;
     color: #ffffff;
-    text-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    text-shadow: 1px 1px 1px #000, 0 0 20px rgba(255, 255, 255, 0.2);
 }
 
 .controls, .mode {
@@ -126,4 +126,14 @@ button:hover {
 
 .rick-container {
     display: block;
+}
+
+.bottom-tomato {
+    position: fixed;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 200px;
+    z-index: 2;
+    text-shadow: 0 0 20px rgba(255, 0, 0, 0.3);
 } 
