@@ -65,3 +65,4 @@ A fun and quirky Pomodoro timer web application that helps you stay focused whil
 6. Take a longer break after 4 cycles
 
 Remember: The animations are there to make your work sessions more enjoyable, but stay focused on your tasks during Sprint mode! # pomodoro
+# pomodoro
