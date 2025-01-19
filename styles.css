@@ -45,6 +45,8 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
+.timer {
+    font-size: 6rem;
     font-weight: 700;
     margin: 2rem 0;
     color: #ffffff;
